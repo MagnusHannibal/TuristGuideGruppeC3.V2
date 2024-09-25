@@ -94,4 +94,6 @@ public class TouristController {
         touristGuideApplication.deleteAttraction(name);
         return "redirect:/attractions";
     }
+
+    //Testcomment
 }
